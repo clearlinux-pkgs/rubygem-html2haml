@@ -4,7 +4,7 @@
 #
 Name     : rubygem-html2haml
 Version  : 2.0.0
-Release  : 1
+Release  : 2
 URL      : https://rubygems.org/downloads/html2haml-2.0.0.gem
 Source0  : https://rubygems.org/downloads/html2haml-2.0.0.gem
 Summary  : No detailed summary available
